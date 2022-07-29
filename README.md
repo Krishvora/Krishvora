@@ -1,5 +1,5 @@
 <h1>Hey, I'm Krish 🍻</h1>
-<p><em>Student, Software Engineer and Entrepreneur</a></br>
+<p><em>Student, Software Engineer and Entrepreneur.</br>
 </em></p>
 
 > I'm a 23 y/o pursuing my master's in Computer Science at California State University - East Bay.<br>Fueled by high energy levels and boundless enthusiasm, I’m easily inspired and more than willing to follow my fascinations wherever they take me. I’m a passionate, expressive, multi-talented spirit with a natural ability to entertain and inspire.<br>I am currently residing in Hayward, CA and looking for full-time opportunities both in-person and remote.
