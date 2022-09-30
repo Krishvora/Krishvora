@@ -2,7 +2,7 @@
 <p><em>Student, Software Engineer and Entrepreneur.</br>
 </em></p>
 
-> I'm a student pursuing my master's in Computer Science.<br>Fueled by high energy levels and boundless enthusiasm, I’m easily inspired and more than willing to follow my fascinations wherever they take me. I’m a passionate, expressive, multi-talented spirit with a natural ability to entertain and inspire.<br>I am currently residing in Hayward, CA and looking for full-time opportunities both in-person and remote.
+> Fueled by high energy levels and boundless enthusiasm, I’m easily inspired and more than willing to follow my fascinations wherever they take me. I’m a passionate, expressive, multi-talented spirit with a natural ability to entertain and inspire.<br>I am currently residing in Hayward, CA and looking for full-time opportunities both in-person and remote.
 
 ---
 
